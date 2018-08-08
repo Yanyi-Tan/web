@@ -1,3 +1,12 @@
 .date{
   color:#BB6D5D;
 }
+#nus,#nyjc{
+  width:100%
+}
+#aboutblock p{
+  margin:0;
+}
+.rating{
+  float:right;
+}
